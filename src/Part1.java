@@ -11,7 +11,7 @@ public class Part1 {
             amountInTheBeginning = amountInTheBeginning + amountInTheBeginning / 100;
             amountInTheBeginning++;
             i++;
-            System.out.println("месяц  " + i + "  сумма накоплений равна  " + amountInTheBeginning);
+            System.out.println("месяц  " + i + "  сумма общих накоплений равна  " + amountInTheBeginning);
         }
 
         System.out.println(" Task Number 2\n");

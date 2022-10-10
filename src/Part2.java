@@ -12,7 +12,7 @@ public class Part2 {
         }
 
 
-        System.out.println("Task Number 2");
+        System.out.println("Task Number 2\n");
 
         int deposit = 15000;
         for (int i = 1; deposit <= 12_000_000; i++) {
