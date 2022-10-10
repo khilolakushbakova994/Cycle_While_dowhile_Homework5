@@ -18,7 +18,7 @@ public class Part3 {
         int b = 2;
         while (a < 10) {
             a ++;
-            System.out.println( b + "*" + a + "=" + a*b);
+            System.out.println( b + "*" + a + "равно" + a*b);
         }
         }
     }
